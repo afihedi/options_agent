@@ -1,0 +1,7 @@
+yfinance>=0.2.40
+anthropic>=0.25.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+rich>=13.0.0
+defeatbeta-api>=0.0.27
+duckdb>=0.10.0
